@@ -1,0 +1,9 @@
+﻿  lab1.cpp
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(52): warning C4267: аргумент: преобразование из "size_t" в "short"; возможна потеря данных
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(68): warning C4101: founded: неиспользованная локальная переменная
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(69): warning C4101: block_size: неиспользованная локальная переменная
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(123): warning C4101: retflag: неиспользованная локальная переменная
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(159): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(179): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+c:\users\user\desktop\ос лабі\lab1\lab1\lab1.cpp(77): warning C4715: Allocator::mem_realloc: значение возвращается не при всех путях выполнения
+  lab1.vcxproj -> C:\Users\User\Desktop\ОС лабі\lab1\x64\Debug\lab1.exe
