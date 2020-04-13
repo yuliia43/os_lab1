@@ -1,1 +1,1 @@
-# os_lab1
+# os_labs
