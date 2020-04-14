@@ -1,0 +1,8 @@
+﻿  lab2.cpp
+c:\users\user\desktop\ос лабі\lab2\lab2\lab2\lab2.cpp(103): warning C4101: founded: неиспользованная локальная переменная
+c:\users\user\desktop\ос лабі\lab2\lab2\lab2\lab2.cpp(104): warning C4101: block_size: неиспользованная локальная переменная
+c:\users\user\desktop\ос лабі\lab2\lab2\lab2\lab2.cpp(105): warning C4101: mem_area: неиспользованная локальная переменная
+c:\users\user\desktop\ос лабі\lab2\lab2\lab2\lab2.cpp(177): warning C4267: =: преобразование из "size_t" в "short"; возможна потеря данных
+c:\users\user\desktop\ос лабі\lab2\lab2\lab2\lab2.cpp(112): warning C4715: Allocator::mem_realloc: значение возвращается не при всех путях выполнения
+c:\users\user\desktop\ос лабі\lab2\lab2\lab2\lab2.cpp(191): warning C4715: Allocator::transorm_page_and_return__free_block: значение возвращается не при всех путях выполнения
+  lab2.vcxproj -> C:\Users\User\Desktop\ОС лабі\lab2\lab2\x64\Debug\lab2.exe
